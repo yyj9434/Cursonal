@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+body {
+  margin: auto;
+  width:1440px;
+}
+
+/*login 영역*/
+#underline {
+   display: inline-block;
+   border-bottom: 3px solid #FFFFCC;
+   box-shadow: inset 0 -10px 0 #FFFFCC;
+}
+aside {
+  width:720px;
+  height:640px;
+  margin-top: 50px;
+  padding-bottom: 100px;
+  float:right;
+  border-left-width: 4px;
+}
+
+aside span {
+  margin-right: 10px;
+}
+aside .form {
+  margin: 0px 0px 7px 10px;
+}
+
+aside .other {
+  margin : 5px 80px 3px 7px;
+  padding: 8px 15px 8px 0px;
+}
+
+aside select {
+  margin : 5px 80px 3px 7px;
+  padding: 8px 15px 8px 0px;
+}
+
+#join {
+   margin-bottom: 50px;
+   padding-left: 180px;
+  border-left: 1px solid gray;
+}
+
+#button {
+  margin: 10px 0px 0px 10px;
+  color: rgb(33, 91, 151);
+  padding: 8px 20px 8px 20px;
+  border-style: none;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+aside .radio {
+  width : 25px;
+}

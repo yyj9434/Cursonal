@@ -1,0 +1,18 @@
+/* footer */
+body {
+  margin: auto;
+  width:1440px;
+}
+footer {
+  clear: both;
+  width:1440px;
+  height:220px;
+  text-align: left;
+  opacity: 0.5;
+  color: black;
+  font-size : 18px;
+}
+footer span {
+  display: inline-block;
+  padding-top: 26px;
+}

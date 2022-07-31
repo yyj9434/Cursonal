@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+  margin: auto;
+  width:1440px;
+}
+
+.contents_size {
+	padding: 24px 0px 5px 10px;
+	padding-top: 20px;
+
+}
+
+#memo {
+	height: 200px;
+	padding-top: 20px;
+} 
+
+.category {
+	padding-top: 20px;
+	font-weight: bold;
+}
+
+.btns {
+	border-style: none;
+	padding: 7px 20px;
+	margin: 20px 10px 10px 0px;
+	margin-top: 20px;
+	margin-right: 10px;
+	font-size: 17px;
+	background-color: #f0f6f9;
+}
+
+header {
+	padding-bottom: 50px;
+}

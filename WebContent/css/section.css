@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+/* body */
+body {
+  margin: auto;
+  width:1440px;
+}
+
+
+/* section 영역 */
+section {
+  width:1440px;
+  height: 1100px;
+  text-align: center;
+}
+
+.best {
+  display : inline-block;
+  margin : 20px 600px 0px 600px ;
+  font-size : 40px;
+  text-align: center;
+  font-family: 'Staatliches', cursive;
+  color : rgb(28, 81, 125);
+}
+
+.underline{
+  background-color : #FFFFA2;
+  height:20px;
+  margin:-20px 625px 0px 625px;
+}
+
+section #items {
+   display: inline-block;
+   padding: 50px;
+}
+
+#i_name {
+  display: block;
+  margin-bottom: -45px;
+  font: normal bold 19px 맑은 고딕;
+}
+
+#i_name h4 {
+  font: normal bold 19px 맑은 고딕;
+}
+
+a {
+   text-decoration: none;
+   color: black;
+}
+
+a:visited {
+   text-decoration: none;
+}
+
+a:hover {
+   color: blue;
+}

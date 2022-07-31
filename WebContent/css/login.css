@@ -1,0 +1,55 @@
+body {
+  margin: auto;
+  width:1440px;
+}
+
+/*section 영역*/
+#underline {
+  margin : 5px;
+  font-size: 40px;
+  display: inline-block;
+  border-bottom: 3px solid #FFFFCC;
+  box-shadow: inset 0 -10px 0 #FFFFCC;
+}
+
+section {
+  width:720px;
+  height:640px;
+  margin-top: 50px;
+  text-align:left;
+  float:left;
+}
+
+#login {
+  margin: 0px 50px 50px 130px;
+  padding : 0px 50px 50px 50px;
+}
+
+#login div {
+  margin-left: 10px;
+  display : inline-block;
+  width : 250px;
+}
+
+#id, #pw {
+   margin: 10px 0px 10px 10px;
+    padding: 8px 15px 8px 0px;
+}
+
+#login #button {
+  padding: 8px 20px;
+  border-style: none;
+  color: rgb(33, 91, 151);
+  font-weight: bold;
+  font-size: 16px;
+}
+
+img {
+  height:45px;
+  width:45px;
+  margin: 40px 8px 0px 0px;
+}
+section span {
+  display: inline-block;
+  margin: 12px 0px 0px 10px;
+}

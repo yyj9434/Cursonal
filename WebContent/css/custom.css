@@ -1,0 +1,85 @@
+body {
+  margin: auto;
+  width:1440px;
+}
+
+/* nav 영역 */
+div#dragText{
+    margin-top: -500px;
+    width: 200px;
+    height: 200px;
+    border:0;
+
+}
+
+input#myText{
+	width: 300px;
+  height: 20px;
+}
+
+img#select{
+	margin-top: -100px;
+    width: 200px;
+    height: 200px;
+	outline: 1px solid #ccc;
+
+}
+nav #make_zone{
+  height: 900px;
+  margin-top: 40px;
+  border-top: thin solid gray;
+  border-bottom: thin solid gray;
+}
+
+nav #make_item {
+  height: 1050px;
+  weight: 1000px;
+  float: left;
+}
+
+nav #make_tools {
+  float: right;
+  width: 370px;
+  height: 450px;
+  background-color: rgb(172, 203, 232);
+}
+nav #details {
+  float: right;
+  width: 370px;
+  height: 450px;
+  background-color: rgb(137, 171, 227);
+}
+
+nav #make_item img {
+  display: block;
+  margin: 0px auto;
+  width: 1030px;
+  margin-top: 50px;
+}
+
+table.type09 {
+  border-collapse: collapse;
+  text-align: left;
+  line-height: 1.5;
+
+}
+table.type09 thead th {
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+  color: #369;
+  border-bottom: 3px solid #036;
+}
+table.type09 tbody th {
+  width: 100px;
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+  border-bottom: 1px solid #ccc;
+  background: #f3f6f7;
+}
+table.type09 td {
+  width: 350px;
+  vertical-align: top;
+
+}

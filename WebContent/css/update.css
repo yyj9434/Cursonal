@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+   margin: auto;
+     width:1440px;
+}
+
+
+/* Update.jsp css */
+.table {
+      border-collapse: collapse;
+      border-top: 3px solid #168;
+} 
+input {
+   border: none;
+   outline: none;
+   font-size: 16px;
+}
+#edit {
+   border: none;
+   outline: none;
+   font-size: 18px;
+   background: #f0f6f9;
+}
+.table th {
+      color: #168;
+      width: 250px;
+      background: #f0f6f9;
+      margin: auto;
+}
+.table th, .table td {
+      padding: 10px;
+      border: 1px solid #ddd;
+}
+   
+
+   
+/* UpdateProcess css */
+#content {
+   padding: 30px 0px;
+}
+#underline {
+   display: inline-block;
+   border-bottom: 3px solid #FFFFCC;
+   box-shadow: inset 0 -10px 0 #FFFFCC;
+}
